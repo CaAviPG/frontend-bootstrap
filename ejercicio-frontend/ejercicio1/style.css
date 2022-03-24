@@ -1,0 +1,49 @@
+.content{
+    margin: 50px 200px;
+}
+.card-category{
+    width: 32rem;
+    border-radius: 16px;
+    border: 1px solid black;
+    border-color: black;
+}
+.d-flex{
+    background-image: url(https://images.unsplash.com/photo-1503945438517-f65904a52ce6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-size: cover;
+    background-position: center;
+    /* background-position: 100%;
+    background-repeat: no-repeat; */
+    width: 512px;
+    height: 200px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+   
+}
+p{
+    
+    font-size: 14px;
+}
+
+h5{
+    font-weight: bold;
+}
+
+.d-flex a{
+   
+        color: black;
+        background-color: white;
+        border: 1px solid #4A4A4A;
+        padding: 8px 24px;
+        border-radius: 50px;
+        
+        margin-bottom: 15px;
+        margin-left: 10px;
+        text-decoration:none;
+      }
+      
+      .btn-ghost:hover {
+        text-decoration: #4A4A4A;
+        /* opacity: 1; */
+      }
+      
+

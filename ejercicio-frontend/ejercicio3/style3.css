@@ -1,0 +1,14 @@
+.content{
+    margin: 50px 200px;
+}
+body{
+    background-color: aquamarine;
+}
+/* .modal-content{
+    max-width: 500px;
+    max-height: 400px;
+} */
+.col-sm-6 {
+    
+    width: 100%;
+}
